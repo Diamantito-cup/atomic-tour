@@ -44,4 +44,6 @@ Este es el repo oficial de la app tour de iniciación de Atomic-Linux (en beta)
 
 ---
 
-POr ahora eso es todo :<
+Por ahora eso es todo :<
+
+Cualquiér idea de mejor es bienvenida :3
